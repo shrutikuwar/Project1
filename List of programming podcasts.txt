@@ -108,6 +108,13 @@
   "Avg length"   : " 63 minutes ",
   "Link"         : " https://www.podfeet.com/blog/category/programming-by-stealth/"
   }
+   {
+  "id"           : "16",
+  "type"         :" Podfeet Podcasts |Teching python",
+  "episodes"     : "1 episode ",
+  "Avg length"   : " 50 minutes ",
+  "Link"         : "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=5262726&q=site:https%3A%2F%2Ffeeds.fireside.fm%2Fteachingpython%2Frss "
+  }
   
  ]
 
