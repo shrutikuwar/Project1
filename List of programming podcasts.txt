@@ -1,0 +1,129 @@
+[
+{
+
+  "id" : "1" ,
+  "Name"  : "software Engineering Daily", 
+  "Episodes"  : "5 episode", 
+  "Avg length"   :  "41 minutes", 
+  "Link"         : "https://softwareengineeringdaily.com/"
+  }
+  {
+  "id"           : "2",
+  "Name"         : "The real Python podcast",
+  "Episodes"     : "1 episode", 
+  "Avg length"   : " 60 minutes", 
+  "Link"         : "https://realpython.com/podcasts/rpp/"
+  }
+  {
+  "id"           : "3", 
+  "Name"         : "Talk Python To Me Podcast",
+  "Episodes"     : "1 episode", 
+  "Avg length"   : " 64 minutes", 
+  "Link"         : "https://talkpython.fm/episodes/all"
+  }
+  { 
+  "id"           : "4", 
+  "Name"         : "Javascript japper Podcast",
+  "Episodes"     :  "1 episode", 
+  "Avg length"   :  "62 minutes", 
+  "Link"         : "https://devchat.tv/show/javascript-jabber"
+  }
+  {
+  "id"           : "5", 
+  "Name"         : "Hanselminute With Scott Hanselman",
+  "Episodes"     : "2 episode", 
+  "Avg length"   :  "35 minutes",  
+  "Link"         : "https://hanselminutes.com/"
+  }
+  {
+  "id"           : "6", 
+  "Name"         : "Software Engineering Radio",
+  "Episodes"     : "1 episode", 
+  "Avg length"   :  "57 minutes", 
+  "Link"         :  "https://www.se-radio.net/"
+  }
+  {
+  "id"           : "7", 
+  "Name"         : "Softskills Engineering podcast",
+  "Episodes"     : "3 episode", 
+  "Avg length"   :  "28 minutes", 
+  "Link"         : "https://softskills.audio/"
+  }
+  {
+  "id"           : "8", 
+  "Name"         : "Test and Code",
+  "Episodes"     : "1 episode", 
+  "Avg length"   :  "32 minutes",
+  "link"         : "https://testandcode.com/"
+  }
+  {
+  "id"           : "9", 
+  "type"         : "Coder Radio - Podcast",
+  "episodes"     : "1 episode", 
+  "Avg length"   :  "47 minutes", 
+  "Link"         : "https://coder.show/episodes"
+  }
+  {
+  "id"           : "10", 
+  "type"         : "The 6 Figure Developer",
+  "episodes"     : "1 episode", 
+  "Avg length"   :  "42 minutes", 
+  "Link"         : "https://6figuredev.com/category/podcast/"
+  }
+  {
+  "id"           : "11", 
+  "type"         : "Complete Developer Podcast",
+  "episodes"     : "1 episode ",
+  "Avg length"   :" 58 minutes",
+  "Link"         : "https://completedeveloperpodcast.com/episodes/"
+  }
+  {
+
+  "id"           : "12" ,
+  "type"         : "Fragmented| An Android Developer Poscast",
+  "episodes"     : "5 episode ",
+  "Avg length"   :  "47 minutes", 
+  "Link"         :" https://fragmentedpodcast.com/"
+  }
+  {
+
+  "id"           :" 13",
+  "type"         :" Coding Blocks - podcast",
+  "episodes"     :" 2 episode", 
+  "Avg length"   : " 40 minutes ",
+  "Link"         : "https://www.codingblocks.net/category/podcast/"
+  }
+  {
+
+  "id"           :" 14",
+  "type"         : "Front End Happy Hour",
+  "episodes"     :" 1 episode", 
+  "Avg length"   : " 56 minutes ",
+  "Link"         : " https://frontendhappyhour.com/"
+  }
+  {
+  "id"           : "15",
+  "type"         :" Podfeet Podcasts | Programming By Stealth",
+  "episodes"     : "2 episode ",
+  "Avg length"   : " 63 minutes ",
+  "Link"         : " https://www.podfeet.com/blog/category/programming-by-stealth/"
+  }
+  
+ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
