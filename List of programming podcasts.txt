@@ -108,6 +108,13 @@
   "Avg length"   : " 63 minutes ",
   "Link"         : " https://www.podfeet.com/blog/category/programming-by-stealth/"
   }
+  {
+  "id"           : "17",
+  "type"         :" Podfeet Podcast | coding blocks", 
+  "episodes"     : "2 episode ",
+  "Avg length"   : " 50 minutes ",
+  "Link"         : "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4954051&q=site:https%3A%2F%2Fwww.codingblocks.net%2Fpodcast-feed.xml"
+  }
   
  ]
 
