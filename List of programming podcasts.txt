@@ -115,7 +115,13 @@
   "Avg length"   : " 50 minutes ",
   "Link"         : "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4954051&q=site:https%3A%2F%2Fwww.codingblocks.net%2Fpodcast-feed.xml"
   }
-  
+   {
+  "id"           : "20",
+  "type"         :" future of coding", 
+  "episodes"     : "1 episode ",
+  "Avg length"   : " 108 minutes ",
+  "Link"         : "https://futureofcoding.org/episodes/"
+  }
  ]
 
 
