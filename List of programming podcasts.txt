@@ -122,6 +122,13 @@
   "Avg length"   : " 108 minutes ",
   "Link"         : "https://futureofcoding.org/episodes/"
   }
+  {
+  "id"           : "22",
+  "type"         :"Programming Throwdown", 
+  "episodes"     : "1 episode ",
+  "Avg length"   : " 80 minutes ",
+  "Link"         : "https://www.programmingthrowdown.com/"
+  }
  ]
 
 
