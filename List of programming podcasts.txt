@@ -129,6 +129,13 @@
   "Avg length"   : " 80 minutes ",
   "Link"         : "https://www.programmingthrowdown.com/"
   }
+  {
+  "id"           : "23",
+  "type"         :"Programming Throwdown", 
+  "episodes"     : "2 episode ",
+  "Avg length"   : " 180 minutes ",
+  "Link"         : "https://www.programmingthrowdown.com/"
+  }
  ]
 
 
