@@ -108,6 +108,7 @@
   "Avg length"   : " 63 minutes ",
   "Link"         : " https://www.podfeet.com/blog/category/programming-by-stealth/"
   }
+
    {
   "id"           : "16",
   "type"         :" Podfeet Podcasts |Teching python",
@@ -116,6 +117,36 @@
   "Link"         : "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=5262726&q=site:https%3A%2F%2Ffeeds.fireside.fm%2Fteachingpython%2Frss "
   }
   
+
+  {
+  "id"           : "17",
+  "type"         :" Podfeet Podcast | coding blocks", 
+  "episodes"     : "2 episode ",
+  "Avg length"   : " 50 minutes ",
+  "Link"         : "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4954051&q=site:https%3A%2F%2Fwww.codingblocks.net%2Fpodcast-feed.xml"
+  }
+   {
+  "id"           : "20",
+  "type"         :" future of coding", 
+  "episodes"     : "1 episode ",
+  "Avg length"   : " 108 minutes ",
+  "Link"         : "https://futureofcoding.org/episodes/"
+  }
+  {
+  "id"           : "22",
+  "type"         :"Programming Throwdown", 
+  "episodes"     : "1 episode ",
+  "Avg length"   : " 80 minutes ",
+  "Link"         : "https://www.programmingthrowdown.com/"
+  }
+  {
+  "id"           : "23",
+  "type"         :"Programming Throwdown", 
+  "episodes"     : "2 episode ",
+  "Avg length"   : " 180 minutes ",
+  "Link"         : "https://www.programmingthrowdown.com/"
+  }
+
  ]
 
 
